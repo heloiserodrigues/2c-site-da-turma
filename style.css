@@ -17,7 +17,8 @@ header{
 }
 
 .div.img-bruna{
-    padding: 0 400px;
+    padding: 0 -400px;
+    background-position:right;
 }
 .gif-bruna{
     width: 6%;
