@@ -16,15 +16,17 @@ header{
     padding: 28px 0;
 }
 
-.img-bruna{
+.cabeçalho{
     padding: 0 500px;
 }
 .gif-bruna{
-    width: 6%;
+    width: 3%;
     margin: -23px;
-    
 }
-
+.base{
+    margin: 23px;
+    width: 6%;
+}
 img {
     display: block;
     margin: 0 auto;
