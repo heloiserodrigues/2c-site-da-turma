@@ -1,9 +1,8 @@
 @import url("styles/header.css");
 :root{
-    background: #c8b7f0;
+    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
 }
 *{ 
-
     padding: 0;
     margin: 0;
     box-sizing: border-box;
