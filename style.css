@@ -68,3 +68,8 @@ p{
     flex-direction: column;
     gap: 30px;
 }
+.base-titulo{
+    font-family: 'NTR', sans-serif;
+    font-weight: 400;
+    font-size: 64px;
+}
