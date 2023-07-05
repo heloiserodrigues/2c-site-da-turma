@@ -62,8 +62,8 @@ p{
 }
 .primeiro-produto-escrito{
     background-color: #ffffff;
-    width: 400px;
-    height: 180px;
+    width: 180px;
+    height: 60px;
     display: flex;
     flex-direction: column;
     gap: 30px;
