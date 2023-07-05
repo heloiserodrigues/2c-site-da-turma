@@ -56,14 +56,14 @@ p{
     border-top: 0.4px solid;
 }
 .primeiro-produto{
-    background-color: #f2c2e7;
-    border: none;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
 }
 .primeiro-produto-escrito{
+    background-color: bisque;
+    border: none;
     display: flex;
     flex-direction: column;
     gap: 30px;
