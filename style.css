@@ -62,6 +62,7 @@ p{
 }
 .primeiro-produto-escrito{
     background-color: bisque;
+    width: 180px;
     height: 60px;
     border: none;
     display: flex;
