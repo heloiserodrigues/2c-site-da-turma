@@ -58,6 +58,7 @@ p{
     border-top: 0.4px solid;
 }
 .primeiro-produto{
+    background-color: #f2c2e7;
     display: flex;
     flex-direction: row;
     align-items: center;
