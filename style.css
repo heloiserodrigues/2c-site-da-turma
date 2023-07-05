@@ -1,5 +1,6 @@
 @import url("styles/header.css");
 :root{
+    background: #0e336e;
     --cor-de-fundo:#0e336e;
 }
 *{ 
