@@ -21,6 +21,7 @@ img {
 .menu li{
     display: inline-block;
     margin: 0 40px;
+    padding-left: 26%;
 }
 .menu li a{
     font-size: 24px;
