@@ -45,7 +45,7 @@ p{
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 0px;
+    padding: 24px;
 }
 .cabecalho-imagem{
     height: 72px;
