@@ -15,9 +15,8 @@ header{
     justify-content: space-around;
     padding: 28px 0;
 }
-
-.cabeçalho{
-    padding: 0 500px;
+.div.cabeçalho{
+    padding: 0 100px;
 }
 .gif-bruna{
     width: 3%;
