@@ -57,3 +57,7 @@ p{
     margin-top: 48px;
     border-top: 0.4px solid;
 }
+.primeiro-produto{
+    display: flex;
+    flex-direction: row;
+}
