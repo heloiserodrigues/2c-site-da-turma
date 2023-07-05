@@ -63,3 +63,7 @@ p{
     align-items: center;
     justify-content: space-around;
 }
+.primeiro-produto-escrito{
+    display: flex;
+    flex-direction: column;
+}
